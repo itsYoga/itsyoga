@@ -164,13 +164,12 @@ const yujia: Developer = {
 ## `> cat interests.txt`
 
 ```
-    _____
-   /     \      When I'm not coding, you'll find me:
-  | () () |
-   \  ^  /      - Captaining the volleyball team
-    |||||       - Exploring quantitative finance
-    |||||       - Learning Japanese
-                - Attending hackathons
+                When I'm not coding, you'll find me:
+   /\_/\
+  ( o.o )       - Captaining the volleyball team
+   > ^ <        - Exploring quantitative finance
+  /|   |\       - Learning Japanese
+ (_|   |_)      - Attending hackathons
 ```
 
 ---
