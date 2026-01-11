@@ -161,19 +161,6 @@ const yujia: Developer = {
 
 ---
 
-## `> cat interests.txt`
-
-```
-                When I'm not coding, you'll find me:
-   /\_/\
-  ( o.o )       - Captaining the volleyball team
-   > ^ <        - Exploring quantitative finance
-  /|   |\       - Learning Japanese
- (_|   |_)      - Attending hackathons
-```
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itsYoga&style=for-the-badge&color=58A6FF"/>
 </div>
