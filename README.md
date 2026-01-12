@@ -6,12 +6,12 @@
 <div align="center">
 
   ```
-   ██████╗ ███████╗    ███████╗████████╗██╗   ██╗██████╗ ███████╗███╗   ██╗████████╗
-  ██╔════╝ ██╔════╝    ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██╔════╝████╗  ██║╚══██╔══╝
-  ██║      ███████╗    ███████╗   ██║   ██║   ██║██║  ██║█████╗  ██╔██╗ ██║   ██║
-  ██║      ╚════██║    ╚════██║   ██║   ██║   ██║██║  ██║██╔══╝  ██║╚██╗██║   ██║
-  ╚██████╗ ███████║    ███████║   ██║   ╚██████╔╝██████╔╝███████╗██║ ╚████║   ██║
-   ╚═════╝ ╚══════╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝
+  ██╗    ██╗██╗  ██╗ █████╗ ███████╗███████╗██╗   ██╗██████╗ 
+  ██║    ██║██║  ██║██╔══██╗██╔════╝██╔════╝██║   ██║██╔══██╗
+  ██║ █╗ ██║███████║███████║███████╗███████╗██║   ██║██████╔╝
+  ██║███╗██║██╔══██║██╔══██║╚════██║╚════██║██║   ██║██╔═══╝ 
+  ╚███╔███╔╝██║  ██║██║  ██║███████║███████║╚██████╔╝██║     
+   ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     
   ```
 
   <a href="https://yujialiang.com"><img src="https://img.shields.io/badge/Portfolio-yujialiang.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -34,7 +34,7 @@ const yujia: Developer = {
         spoken: ["Mandarin (Native)", "English (TOEFL 110)", "Japanese (JLPT N3)"],
         programming: ["Python", "TypeScript", "Rust", "Swift", "Dart", "Solidity"]
     },
-    funFact: "I analyze volleyball games with custom ML models I built"
+    funFact: "Scuba diver 🤿 | Volleyball lover 🏐 | Photographer 📷 | Guitarist 🎸"
 };
 ```
 
@@ -69,15 +69,31 @@ const yujia: Developer = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Backend & DevOps
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Infra
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Testing & Monitoring
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Flutter Test](https://img.shields.io/badge/Flutter_Test-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </div>
 
