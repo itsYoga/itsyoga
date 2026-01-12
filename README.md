@@ -42,7 +42,7 @@ const yujia: Developer = {
 
 ## `> tech_stack --verbose`
 
-<div align="center">
+<div align="left">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
