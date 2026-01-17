@@ -32,7 +32,7 @@ const yujia: Developer = {
     currentFocus: "Building AI-powered applications & exploring edge ML",
     languages: {
         spoken: ["Mandarin (Native)", "English (TOEFL 110)", "Japanese (JLPT N3)"],
-        programming: ["Python", "TypeScript", "Rust", "Swift", "Dart", "Solidity"]
+        programming: ["Python","C/C++", "TypeScript", "Rust", "Swift", "Dart", "Solidity"]
     },
     funFact: "Scuba diver 🤿 | Volleyball lover 🏐 | Photographer 📷 | Guitarist 🎸"
 };
