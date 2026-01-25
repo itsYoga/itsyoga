@@ -27,7 +27,7 @@
 ```typescript
 const yujia: Developer = {
     location: "Taipei, Taiwan",
-    education: "B.S. Computer Science @ NTOU (2026)",
+    education: "B.S. Computer Science @ NTOU",
     roles: ["ML Engineer", "Full-Stack Developer", "Volleyball Captain"],
     currentFocus: "Building AI-powered applications & exploring edge ML",
     languages: {
