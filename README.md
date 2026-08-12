@@ -32,7 +32,7 @@ I build AI-powered applications with a focus on computer vision and edge ML, alo
 
 ## Featured Projects
 
-### Volleyball Analytics System
+### [Volleyball Analytics System](https://github.com/itsYoga/volleyball-hawkeye-system)
 Computer-vision platform for volleyball match analysis. Achieves **94.49% mAP** on action recognition (serve, spike, block, receive, set) using a multi-model pipeline (VballNet, YOLOv11, Norfair), with a real-time WebSocket tracking dashboard on a FastAPI + Celery + Redis microservice backend.
 
 `Python` `PyTorch` `React` `Docker`
@@ -42,12 +42,12 @@ Privacy-first, AI-assisted note-taking app for macOS built with Tauri 2.0 and Ru
 
 `Rust` `React` `TypeScript` `D3.js`
 
-### SyncUp
+### [SyncUp](https://github.com/itsYoga/Sync)
 Social calendar app for coordinating with friends. Real-time calendar sharing on Firebase, an AI assistant powered by Google Gemini, and location-based event suggestions.
 
 `Flutter` `Dart` `Firebase` `Google Maps`
 
-### Archon DApp
+### [Archon DApp](https://github.com/itsYoga/Archon)
 Real-world asset tokenization platform on Ethereum. Role-based access control (admin / verifier / minter), dynamic ERC-20 token creation, and on-chain identity verification.
 
 `Solidity` `React` `Hardhat` `Ethers.js`
@@ -55,8 +55,9 @@ Real-world asset tokenization platform on Ethereum. Role-based access control (a
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsYoga&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itsYoga&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsYoga&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsYoga&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsYoga&theme=github_dark"/>
 </div>
 
 ---
