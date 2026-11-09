@@ -32,7 +32,7 @@ I build AI-powered applications with a focus on computer vision and edge ML, alo
 
 ## Featured Projects
 
-### [Volleyball Analytics System](https://github.com/itsYoga/volleyball-hawkeye-system)
+### [Volleyball Analytics System](https://github.com/DL-Volleyball-Analysis/volleyball-analysis)
 Computer-vision platform for volleyball match analysis. Achieves **94.49% mAP** on action recognition (serve, spike, block, receive, set) using a multi-model pipeline (VballNet, YOLOv11, Norfair), with a real-time WebSocket tracking dashboard on a FastAPI + Celery + Redis microservice backend.
 
 `Python` `PyTorch` `React` `Docker`
