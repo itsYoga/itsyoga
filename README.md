@@ -57,7 +57,7 @@ Copy-on-write CLI safety layer in Rust (`run`, `diff`, `undo`, `commit`) built f
 - **Teaching Assistant, Introduction to iOS Application Development** — National Taiwan Ocean University *(Sep. 2026 – Jan. 2027)*
 - **AI Image Recognition Research Intern** — ITRI, Electronic & Optoelectronic System Research Labs *(Jul. – Aug. 2025)*  
   Trained multi-task YOLOPX driving perception (**0.972** drivable-area mIoU, **0.793** lane mIoU, **0.838** mAP@0.5), extended the codebase (~1,900 lines), and owned edge deployment to NVIDIA Jetson Nano via pruning, ONNX, and TensorRT/PyCUDA (~15 FPS inference, ZMQ/ROS streaming).
-- **Education** — B.S. in Computer Science and Engineering, National Taiwan Ocean University *(2022 – 2026)*; auditing *Deep Learning for Music Analysis and Generation* (Prof. Yi-Hsuan Yang) at National Taiwan University *(Fall 2026)*.
+- **Education** — B.S. in Computer Science and Engineering, National Taiwan Ocean University *(2022 – 2026)*
 
 ---
 
